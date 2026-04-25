@@ -49,7 +49,7 @@
   <a href="https://github.com/sapkotakrishna1">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://sapkotakrishna.com.np">
+  <a href="https://sapkotakishna.com.np">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
